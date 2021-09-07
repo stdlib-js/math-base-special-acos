@@ -93,6 +93,24 @@ for ( i = 0; i < x.length; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/acosh`][@stdlib/math/base/special/acosh]: compute the hyperbolic arccosine of a number.
+-   [`@stdlib/math/base/special/asin`][@stdlib/math/base/special/asin]: compute the arcsine of a number.
+-   [`@stdlib/math/base/special/atan`][@stdlib/math/base/special/atan]: compute the arctangent of a number.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -149,6 +167,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-acos/main/LICENSE
 
 [arccosine]: https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/acosh]: https://github.com/stdlib-js/math-base-special-acosh
+
+[@stdlib/math/base/special/asin]: https://github.com/stdlib-js/math-base-special-asin
+
+[@stdlib/math/base/special/atan]: https://github.com/stdlib-js/math-base-special-atan
+
+<!-- </related-links> -->
 
 </section>
 
