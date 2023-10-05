@@ -30,9 +30,9 @@ var acos = require( './../../dist' );
 
 // FIXTURES //
 
-var data = require( './../..xtures/julia/data.json' );
-var smallNegative = require( './../..xtures/julia/small_negative.json' );
-var smallPositive = require( './../..xtures/julia/small_positive.json' );
+var data = require( './../fixtures/julia/data.json' );
+var smallNegative = require( './../fixtures/julia/small_negative.json' );
+var smallPositive = require( './../fixtures/julia/small_positive.json' );
 
 
 // TESTS //
