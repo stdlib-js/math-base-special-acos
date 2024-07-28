@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@esm/index.mjs';
+import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@v0.2.3-esm/index.mjs';
 ```
 
 #### acos( x )
@@ -87,7 +87,7 @@ var v = acos( -3.14 );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@esm/index.mjs';
+import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@v0.2.3-esm/index.mjs';
 
 var x = linspace( -1.0, 1.0, 100 );
 
