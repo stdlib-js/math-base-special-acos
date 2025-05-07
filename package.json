@@ -146,7 +146,7 @@
           ]
         }
       ],
-      "output_policy": "same",
+      "output_policy": "real_floating_point_and_generic",
       "returns": {
         "desc": "arccosine (in radians)",
         "type": {
