@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@esm/index.mjs';
+import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@v0.2.4-esm/index.mjs';
 ```
 
 #### acos( x )
@@ -88,7 +88,7 @@ var v = acos( -3.14 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@esm/index.mjs';
+import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@v0.2.4-esm/index.mjs';
 
 var x = uniform( 100, -1.0, 1.0, {
     'dtype': 'float64'
