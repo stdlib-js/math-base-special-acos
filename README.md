@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@deno/mod.js';
+import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@v0.2.4-deno/mod.js';
 ```
 
 #### acos( x )
@@ -83,7 +83,7 @@ var v = acos( -3.14 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@deno/mod.js';
+import acos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acos@v0.2.4-deno/mod.js';
 
 var x = uniform( 100, -1.0, 1.0, {
     'dtype': 'float64'
