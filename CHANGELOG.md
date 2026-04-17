@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-17)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`d4a3c9c`](https://github.com/stdlib-js/stdlib/commit/d4a3c9c8581a0b3f14e892acbfc31143a7c3fe82) - **test:** migrate `math/base/special/acos` to ULP-based testing [(#11505)](https://github.com/stdlib-js/stdlib/pull/11505) _(by Prajjwal Bajpai)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prajjwal Bajpai
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.4">
 
 ## 0.2.4 (2026-02-07)
